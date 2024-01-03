@@ -83,6 +83,23 @@
     "scrollbarSlider.hoverBackground": "#343434",
     // Settings
     "settings.modifiedItemIndicator": "#FFC799"
+    "terminal.ansiBlack": "#101010",
+    "terminal.ansiBlue": "#FFC799",
+    "terminal.ansiBrightBlack": "#101010",
+    "terminal.ansiBrightBlue": "#FFC799",
+    "terminal.ansiBrightCyan": "#99FFE4",
+    "terminal.ansiBrightGreen": "#99FFE4",
+    "terminal.ansiBrightMagenta": "#FBADFF",
+    "terminal.ansiBrightRed": "#FF8080",
+    "terminal.ansiBrightWhite": "#f8f8f2",
+    "terminal.ansiBrightYellow": "#FFC799",
+    "terminal.ansiCyan": "#99FFE4",
+    "terminal.ansiGreen": "#99FFE4",
+    "terminal.ansiMagenta": "#FBADFF",
+    "terminal.ansiRed": "#FF8080",
+    "terminal.ansiWhite": "#e3e3dd",
+    "terminal.ansiYellow": "#FFC799",
+    "terminal.background": "#101010",
   },
   "tokenColors": [
     {

@@ -43,6 +43,8 @@
     // Status bar
     "statusBar.debuggingForeground": "#FFF",
     "statusBar.debuggingBackground": "#FF7300",
+    "statusBar.noFolderBackground": "#101010",
+    "statusBar.noFolderForeground": "#A0A0A0",
     "statusBar.background": "#101010",
     "statusBar.foreground": "#A0A0A0",
     "statusBarItem.remoteBackground": "#FFC799",
